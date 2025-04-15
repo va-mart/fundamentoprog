@@ -59,10 +59,11 @@ while True:
             iva = subtotal * 0.19
             total_compra = subtotal + iva
             print('\n---- RESUMEN COMPRA ----')
-            print(f'Subtotal: ${subtotal}')
+            print(f'\nSubtotal: ${subtotal}')
             print(f'IVA 19%: ${iva}')        
             print(f'Total: ${total_compra}')
-            print('¡Muchas gracias por tu compra!')
+            print('\n¡Muchas gracias por tu compra!')
             exit()  # Finaliza el programa correctamente
         else:
             print('Respuesta inválida. Por favor, ingrese "sí" o "no".')
+        
