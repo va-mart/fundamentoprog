@@ -1,9 +1,9 @@
-#height at least 137 cm, cost 10 credis
-#ask users their height and how many credits do they have
-#height and credits enough -> Enojy the ride
-#enough credits but short -> not tall enough to ride
+# height at least 137 cm, cost 10 credis
+# ask users their height and how many credits do they have
+# height and credits enough -> Enjoy the ride
+# enough credits but short -> not tall enough to ride
 # tall enough but not credits -> you don't have enought credits
-# have not met either requirement
+# do not meet either requirement
 
 print('Welcome to The Cyclone, Coney Island.\n', 'We need to you to answer a couple questions before proceeding.')
 height = int(input('What is your height? Please write it in cm: '))
