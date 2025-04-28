@@ -5,7 +5,7 @@
 # tall enough but not credits -> you don't have enought credits
 # do not meet either requirement
 
-print('Welcome to The Cyclone, Coney Island.\n', 'We need to you to answer a couple questions before proceeding.')
+print('Welcome to The Cyclone, Coney Island.\n', 'We need you to answer a couple questions before proceeding.')
 height = int(input('What is your height? Please write it in cm: '))
 credits = int(input('How many credits do you have?: '))
 
